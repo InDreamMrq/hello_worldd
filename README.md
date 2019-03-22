@@ -1,6 +1,6 @@
 # hello_worldd
 
 
-Hi forks,
+Hi folks,
 
 this is my first scripts that are written in github
